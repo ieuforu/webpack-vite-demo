@@ -1,0 +1,1 @@
+(()=>{var o={146:o=>{o.exports={foo:function(){console.log("foo")}}}},r={},e=function e(t){var n=r[t];if(void 0!==n)return n.exports;var s=r[t]={exports:{}};return o[t](s,s.exports,e),s.exports}(146).foo;console.log(e)})();
